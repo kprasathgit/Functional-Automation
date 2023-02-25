@@ -32,10 +32,10 @@ public class E_Kart {
 // CONVERTING ARRAY TO ARRAYLIST in order to access arraylist methods.
 		List<String> purchaselist = Arrays.asList(itemlist);
 
-// COLLECTING ALL THE ITEM AVAILABLE TO PURCHASE IN WEBSITE TO A LIST.		
+// COLLECTING ALL THE ITEM AVAILABLE IN WEBSITE TO A LIST.		
 		List<WebElement> products = driver.findElements(By.cssSelector("h4.product-name"));
 
-//Selecting items to purchase one by one using loop.
+//Selecting items  one by one using loop.
 
 		for (int j = 0; j < products.size(); j++) {
 
