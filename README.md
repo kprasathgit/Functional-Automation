@@ -1,3 +1,3 @@
 # eCommerce
-ADD_CART&PLACE_ORDER:
-   i) This mini project explains FUNCTIONAL AUTOMATION of an e-commerce website, such that from selecting purchasing items one by one upto placing order for delivery. 
+   i) This mini project explains how FUNCTIONAL AUTOMATION of an e-commerce website works , such that starting from purchasing items one by one upto placing order for delivery. 
+   ii) we can execute this code as TestNg suite or Maven Build.
